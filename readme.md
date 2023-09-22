@@ -1,0 +1,1 @@
+A coding challenge solution, written in Python (3.4). To run, execute the main.py script. To provide input, use the input.txt file.
